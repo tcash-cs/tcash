@@ -152,6 +152,12 @@
   },
 
   {
+    "category": "티캐시설치", 
+    "subject": "티캐시 설치방법", 
+    "content": "<strong>티캐시</strong> 앱을 다운받으세요!<br/><br/><a href='https://play.google.com/store/apps/details?id=com.tcash.tcash' target='_blank'>GOOGLE PLAY 다운로드</a><br/><a href='https://itunes.apple.com/kr/app/apple-store/id1134866098' target='_blank'>APP STORE 다운로드</a>"
+  },
+
+  {
     "category": "매니아사용방법", 
     "subject": "아이템매니아 충전 순서", 
     "content": "<p style='text-align: center'><img src='common/images/faq_mania1.png' alt='' /></p>"

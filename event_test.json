@@ -1,0 +1,28 @@
+[
+  {
+    "subject": "핸들대리 충전금 증정 이벤트!", 
+    "date" : "2021. 05. 20 ~ 2021. 06. 30",
+    "img": "common/images/event/evt_handle.png",
+    "link": "https://naver.com"
+  },
+  {
+    "subject": "친구초대 이벤트!", 
+    "date" : "2021. 05. 12 ~ 2021. 06. 30",
+    "img": "common/images/event/evt_egg.png"
+  },
+  {
+    "subject": "해피/도서 상품권 할인 이벤트!", 
+    "date" : "2021. 05. 12 ~ 2021. 06. 30",
+    "img": "common/images/event/evt_giftcard.png"
+  },
+  {
+    "subject": "피디팝 무료쿠폰 이벤트!", 
+    "date" : "2021. 05. 12 ~ 2021. 06. 30",
+    "img": "common/images/event/evt_pdpop.png"
+  },
+  {
+    "subject": "험블딜러 결제 런칭!", 
+    "date" : "2021. 05. 12 ~ 2021. 06. 30",
+    "img": "common/images/event/evt_humble.png"
+  }
+]

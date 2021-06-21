@@ -1,5 +1,11 @@
 [
   {
+    "subject": "6월 리뷰왕 이벤트!", 
+    "date" : "2021. 06. 21 ~ 2021. 06. 30",
+    "img": "common/images/event/2106_review_main_banner.png",
+    "link": "/event2106_review.html"
+  },
+  {
     "subject": "핸들대리 충전금 증정 이벤트!", 
     "date" : "2021. 05. 20 ~ 2021. 06. 30",
     "img": "common/images/event/evt_handle.png"

@@ -1,33 +1,8 @@
 [
   {
-    "subject": "6월 리뷰왕 이벤트!", 
-    "date" : "2021. 06. 21 ~ 2021. 06. 30",
-    "img": "common/images/event/2106_review_main_banner.png",
-    "link": "/event2106_review.html"
-  },
-  {
-    "subject": "핸들대리 충전금 증정 이벤트!", 
-    "date" : "2021. 05. 20 ~ 2021. 06. 30",
-    "img": "common/images/event/evt_handle.png"
-  },
-  {
-    "subject": "친구초대 이벤트!", 
-    "date" : "2021. 05. 12 ~ 2021. 06. 30",
-    "img": "common/images/event/evt_egg.png"
-  },
-  {
-    "subject": "해피/도서 상품권 할인 이벤트!", 
-    "date" : "2021. 05. 12 ~ 2021. 06. 30",
-    "img": "common/images/event/evt_giftcard.png"
-  },
-  {
-    "subject": "피디팝 무료쿠폰 이벤트!", 
-    "date" : "2021. 05. 12 ~ 2021. 06. 30",
-    "img": "common/images/event/evt_pdpop.png"
-  },
-  {
-    "subject": "험블딜러 결제 런칭!", 
-    "date" : "2021. 05. 12 ~ 2021. 06. 30",
-    "img": "common/images/event/evt_humble.png"
+    "subject": "7월 리뷰왕 이벤트!", 
+    "date" : "2021. 07. 01 ~ 2021. 07. 23",
+    "img": "common/images/event/2107_review_main_banner.png",
+    "link": "/event2107_review.html"
   }
 ]
